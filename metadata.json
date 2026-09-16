@@ -1,0 +1,8 @@
+{
+  "name": "Obsidian Canvas Co-Creator",
+  "description": "Access Gemini models within Obsidian, in or out of a canvas. On Chromebook running Crostini/debian/penguin\n",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
